@@ -22,4 +22,4 @@ git clone https://github.com/AkshayIndraganti/Guess-The-Number.git
 - Once the files are on your machine, open the \_\_ folder in [Visual Studio Code](https://code.visualstudio.com/).
 
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-- [To See The Live Page Click Here](https://github.com/AkshayIndraganti/Guess-The-Number.git):
+- [To See The Live Page Click Here](https://akshayindraganti.github.io/Guess-The-Number/):
